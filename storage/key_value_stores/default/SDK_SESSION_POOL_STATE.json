@@ -1,0 +1,141 @@
+{
+  "usableSessionsCount": 1,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_NMOAlTn2Su",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "vis",
+            "value": "ca60be6bcf6d2b1b-542f86b92b6e3b9d-fdbeceef9ddce693v1",
+            "expires": "2043-05-20T14:38:08.000Z",
+            "domain": "www.kickstarter.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2023-05-20T14:38:08.049Z",
+            "lastAccessed": "2023-05-20T14:38:08.049Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "lang",
+            "value": "en",
+            "domain": "www.kickstarter.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2023-05-20T14:38:08.050Z",
+            "lastAccessed": "2023-05-20T14:38:08.050Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "last_page",
+            "value": "https%3A%2F%2Fwww.kickstarter.com%2Fprojects%2Fchibig%2Fkoa-and-the-five-pirates-of-mara-endless-summer-adventure%2Fposts",
+            "expires": "2023-05-20T15:08:08.000Z",
+            "domain": "www.kickstarter.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2023-05-20T14:38:08.050Z",
+            "lastAccessed": "2023-05-20T14:38:08.050Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "ref_340334446",
+            "value": "direct%3F1684593488",
+            "domain": "www.kickstarter.com",
+            "path": "/projects/chibig/koa-and-the-five-pirates-of-mara-endless-summer-adventure",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2023-05-20T14:38:08.050Z",
+            "lastAccessed": "2023-05-20T14:38:08.050Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "woe_id",
+            "value": "U5%2F6Rxcfz0V%2BMOdmP0mG5aiPx3Vb69VNl3Rp5MGorZ4j7a3JJpFyjQEjXTt0hnIDp7GfAry4e0VZySJm2W3j7HZMBWR22SwHkUkDjA4Gc4sfSpvIw7YoCw%3D%3D--gz4hJZLLAHg5MSyw--Gf1b0718hSfle8l8Ro00Yw%3D%3D",
+            "expires": "2023-05-21T14:38:08.000Z",
+            "domain": "www.kickstarter.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2023-05-20T14:38:08.050Z",
+            "lastAccessed": "2023-05-20T14:38:08.050Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "optimizely_current_variations",
+            "value": "%7B%7D",
+            "domain": "www.kickstarter.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2023-05-20T14:38:08.050Z",
+            "lastAccessed": "2023-05-20T14:38:08.050Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "_ksr_session",
+            "value": "oguVfCfqIsh8%2FGgd2TELIF7G%2BZdREriJwB0ZtVp6d35Z%2FwxzcITUjkxPtwKBpi3WPAQDaSYWFRdOC5gt6NM9Xd0KcauyWoBy%2B0hCqoDw0w%2BQDNKgy83IMj0bEvmTuiE33PPCrZzqJP76r77MyJRtOJW6CLABSBqUTFAiAj2yDViAB6uoe7UDkdhclRSZRTROM5UBa1xzKT%2FLOBiNKF72RcpqlH5q6lugftIbRF0xuQuazFi4lLxm0GPjLAo2G6nwMIDzHMazlYFncg2pyKt0uKRUApk%3D--VHBUQ4bTzmxLlzHm--lNFVwn9oDumhhQx5u2zJjg%3D%3D",
+            "domain": "www.kickstarter.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2023-05-20T14:38:08.050Z",
+            "lastAccessed": "2023-05-20T14:38:08.050Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "request_time",
+            "value": "Sat%2C+20+May+2023+14%3A38%3A08+-0000",
+            "domain": "www.kickstarter.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2023-05-20T14:38:08.050Z",
+            "lastAccessed": "2023-05-20T14:38:08.050Z"
+          },
+          {
+            "key": "_pxhd",
+            "value": "ebGrAWXRQe0HPaX315G7bYlvgFjYXsfIrcy4sXk3dKInTlN-RiKmVLLh3V9ne7bSlW9JFqjEpXsRmdrwGf3m6w==:9O/qKXg73rIj6Nv0-HgjSDPH5Ydzc6AKo6TKkpiUj1pPFxsRvklPpSNTM1iE0UPlp6aDjhcRlnL6m/snVtvHcu2hUuuUKMfDlOqNs4CNS5s=",
+            "domain": "www.kickstarter.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2023-05-20T14:38:08.050Z",
+            "lastAccessed": "2023-05-20T14:38:08.050Z"
+          },
+          {
+            "key": "__cf_bm",
+            "value": "Eef7gh5N7vzIpvPx80kxBskfGMQUWVlDnJxBGlO_pr4-1684593488-0-AY0xeUpV7p4Ej+bPaGfNHVdNmMADk72f0m1my5ULRUXb8vGX4Aa1Y9yIHgUm5aR+yLvtZnCx/90U28Myeyx796w=",
+            "expires": "2023-05-20T15:08:08.000Z",
+            "domain": "kickstarter.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-05-20T14:38:08.050Z",
+            "lastAccessed": "2023-05-20T14:38:08.050Z",
+            "sameSite": "none"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-05-20T15:27:54.911Z",
+      "createdAt": "2023-05-20T14:37:54.911Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}
