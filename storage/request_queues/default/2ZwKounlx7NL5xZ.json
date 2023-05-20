@@ -1,9 +1,0 @@
-{
-	"id": "2ZwKounlx7NL5xZ",
-	"json": "{\"id\":\"2ZwKounlx7NL5xZ\",\"url\":\"https://www.kickstarter.com/projects/chibig/koa-and-the-five-pirates-of-mara-endless-summer-adventure/posts\",\"loadedUrl\":\"https://www.kickstarter.com/projects/chibig/koa-and-the-five-pirates-of-mara-endless-summer-adventure/posts\",\"uniqueKey\":\"https://www.kickstarter.com/projects/chibig/koa-and-the-five-pirates-of-mara-endless-summer-adventure/posts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"someProp\":\"some-value\",\"label\":\"handler\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-05-20T14:38:08.063Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.kickstarter.com/projects/chibig/koa-and-the-five-pirates-of-mara-endless-summer-adventure/posts",
-	"url": "https://www.kickstarter.com/projects/chibig/koa-and-the-five-pirates-of-mara-endless-summer-adventure/posts"
-}
