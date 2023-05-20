@@ -2,7 +2,6 @@ import { Injectable, Logger, OnApplicationBootstrap } from '@nestjs/common';
 import {
   createCheerioRouter,
   CheerioCrawler,
-  RequestQueue,
   RouterHandler,
   CheerioCrawlingContext,
 } from 'crawlee';
@@ -25,16 +24,15 @@ export class AppService implements OnApplicationBootstrap {
 
   async onApplicationBootstrap(): Promise<void> {
     this.logger.log('onApplicationBootstrap called');
-    const queue = await RequestQueue.open();
-    this.logger.log('Unreachable line during dockerized execution');
-    queue.addRequest({
-      url: 'https://www.kickstarter.com/projects/chibig/koa-and-the-five-pirates-of-mara-endless-summer-adventure/posts',
-      label: 'handler',
-      userData: { someProp: 'some-value' },
-    });
 
-    this.crawler.requestQueue = queue;
-    await this.crawler.run();
+    await this.crawler.run([
+      {
+        url: 'https://www.kickstarter.com/projects/chibig/koa-and-the-five-pirates-of-mara-endless-summer-adventure/posts',
+        label: 'handler',
+        userData: { someProp: 'some-value' },
+      },
+    ]);
+    this.logger.log('Unreachable line during dockerized execution');
   }
 
   private async customHandler({
